@@ -13,8 +13,8 @@ interrupt - 0%
 
 migration - 0%
 
-option - 0%
+option - 100% - bandi
 
-qlaunch - 100%
+qlaunch - 100% - bandi / spaq
 
 setting - 0%
