@@ -11,7 +11,7 @@ gift - 0%
 
 interrupt - 0%
 
-migration - 0%
+migration - 100% - spaq
 
 option - 100% - bandi
 
