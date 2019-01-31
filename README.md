@@ -5,7 +5,7 @@ common - 0%
 
 dataErase - 0%
 
-flaunch - 0%
+flaunch - 100% - bandi
 
 gift - 0%
 
