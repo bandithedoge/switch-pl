@@ -15,6 +15,6 @@ migration - 0%
 
 option - 0%
 
-qlaunch - 35%
+qlaunch - 100%
 
 setting - 0%
