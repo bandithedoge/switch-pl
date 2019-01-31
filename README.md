@@ -1,7 +1,7 @@
 # switch-pl
 Nintendo Switch Polish translation
 
-common - 0%
+common - 100% - spaq
 
 dataErase - 0%
 
