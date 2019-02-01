@@ -6,7 +6,7 @@
 
 * flaunch (7) - 100% - bandi
 
-* gift (59) - 0%
+* gift (59) - 100% - spaq
 
 * interrupt (54) - 0%
 
