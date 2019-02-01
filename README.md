@@ -17,4 +17,4 @@ option (69) - 100% - bandi
 
 qlaunch (140) - 100% - bandi / spaq
 
-setting (909) - 25% - bandi
+setting (909) - 65% - bandi
