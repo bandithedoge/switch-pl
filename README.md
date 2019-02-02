@@ -2,7 +2,7 @@
 
 * common (142) - 100% - spaq
 
-* dataErase (72) - 0%
+* dataErase (72) - 100% - spaq
 
 * flaunch (7) - 100% - bandi
 
