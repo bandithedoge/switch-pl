@@ -8,7 +8,7 @@
 
 * gift (59) - 100% - spaq
 
-* interrupt (54) - 0%
+* interrupt (54) - 100% - spaq
 
 * migration (74) - 100% - spaq
 
@@ -22,6 +22,6 @@
 
 * ~~common (142) - 100% - spaq~~
 
-* myPage (222) - 0%
+* myPage (222) - 50% - bandi
 
 * ~~setting (909!!11!!1!!1!!11!!!!1!) - 80% - bandi~~
