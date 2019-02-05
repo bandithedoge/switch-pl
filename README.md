@@ -16,12 +16,12 @@
 
 * qlaunch (140) - 100% - bandi / spaq
 
-* setting (909!!!11) - 80% - bandi
+* setting (909) - 80% - bandi
 
 ## user
 
 * ~~common (142) - 100% - spaq~~
 
-* myPage (222) - 50% - bandi
+* myPage (222) - 100% - bandi
 
-* ~~setting (909!!11!!1!!1!!11!!!!1!) - 80% - bandi~~
+* ~~setting (909) - 80% - bandi~~
