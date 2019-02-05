@@ -1,10 +1,10 @@
-!(https://github.com/bandithedoge/switch-pl/blob/master/ss/lang.jpg)
+![słodko](https://github.com/bandithedoge/switch-pl/blob/master/ss/lang.jpg)
 
 [more screenshots/więcej screenshotów](https://github.com/bandithedoge/switch-pl/tree/master/ss/)
 
 [(Want that sexy theme?/Chcesz ten seksowny motyw?)](https://gbatemp.net/download/atmosphere-theme.35531/)
 
-# :pl:
+# Polski
 
 ## switch-pl - Pierwsze (prawie) pełne fanowskie tłumaczenie systemu Nintendo Switch!
 
@@ -45,7 +45,7 @@ Każda próba edycji tych tekstów powodowała uszkodzenie pliku. To bardzo iryt
 
 
 
-# :gb:
+# English
 
 ## switch-pl - The first (almost) full Nintendo Switch system menu fan translation!
 
@@ -84,6 +84,7 @@ Any attempt to edit this text results in file corruption. It was really annoying
 
 * Download the .zip file attached to the latest [release](https://github.com/bandithedoge/switch-pl/releases) and extract the "titles" folder to your CFW's directory (atmosphere/reinx/sxos) on the SD card. Run the selected CFW with LayeredFS support (you should know about it if you've used custom themes).
 
+# Progress/Postęp
 
 ```
 * common (142) - 100% - spaq
