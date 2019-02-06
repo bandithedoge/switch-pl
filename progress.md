@@ -1,4 +1,4 @@
-## home
+## qlaunch
 
 * common (142) - 100% - spaq
 
@@ -18,10 +18,16 @@
 
 * setting (909) - 100% - bandi
 
-## user
+## myPage
 
 * ~~common (142) - 100% - spaq~~
 
 * myPage (222) - 100% - bandi
 
 * ~~setting (909) - 100% - bandi~~
+
+## playerSelect 
+
+* ~~common (142) - 100% - spaq~~
+
+* playerSelect - 0%
