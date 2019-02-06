@@ -85,33 +85,3 @@ Any attempt to edit this text results in file corruption. It was really annoying
 ### How to install
 
 * Download the .zip file attached to the latest [release](https://github.com/bandithedoge/switch-pl/releases) and extract the "titles" folder to your CFW's directory (atmosphere/reinx/sxos) on the SD card. Run the selected CFW with LayeredFS support (you should know about it if you've used custom themes).
-
-# Progress/Postęp
-
-```
-* common (142) - 100% - spaq
-
-* dataErase (72) - 100% - spaq
-
-* flaunch (7) - 100% - bandi
-
-* gift (59) - 100% - spaq
-
-* interrupt (54) - 100% - spaq
-
-* migration (74) - 100% - spaq
-
-* option (69) - 100% - bandi
-
-* qlaunch (140) - 100% - bandi / spaq
-
-* setting (909) - 100% - bandi
-
-## user
-
-* ~~common (142) - 100% - spaq~~
-
-* myPage (222) - 100% - bandi
-
-* ~~setting (909) - 100% - bandi~~
-```
