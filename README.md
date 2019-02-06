@@ -2,6 +2,8 @@
 
 [more screenshots/więcej screenshotów](https://github.com/bandithedoge/switch-pl/tree/master/ss/)
 
+[GBAtemp](https://gbatemp.net/threads/switch-po-polsku-switch-pl-the-first-almost-full-switch-system-menu-polish-fan-translation.530672/)
+
 [(Want that sexy theme?/Chcesz ten seksowny motyw?)](https://gbatemp.net/download/atmosphere-theme.35531/)
 
 # Polski
