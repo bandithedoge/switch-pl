@@ -34,7 +34,7 @@ Jesteśmy bardzo zadowoleni z wydania tego projektu, nad którym pracowaliśmy p
 
 #### Niemożliwe w ogóle:
 
-Jedna rzecz, których po prostu nie da się przetłumaczyć, to teksty typu "Offline/Played for X minutes/hours/days". Dlaczego? Nintendo zdecydowało się użyć dla nich bardzo niecodziennych tagów. Otwarte w Kuriimu wyglądają tak:
+Jedna z rzeczy, których po prostu nie da się przetłumaczyć, to teksty typu "Offline/Played for X minutes/hours/days". Dlaczego? Nintendo zdecydowało się użyć dla nich bardzo niecodziennych tagów. Otwarte w Kuriimu wyglądają tak:
 
 ![Nauczcie się robić tagi!](https://i.imgur.com/mJTG5BT.png)
 
