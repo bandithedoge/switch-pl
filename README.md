@@ -1,6 +1,6 @@
 ![słodko](https://github.com/bandithedoge/switch-pl/blob/master/ss/lang.jpg)
 
-[more screenshots/więcej screenshotów](https://github.com/bandithedoge/switch-pl/tree/master/ss/)
+[more screenshots/więcej screenshotów](https://imgur.com/a/mZQy2X8)
 
 [GBAtemp](https://gbatemp.net/threads/switch-po-polsku-switch-pl-the-first-almost-full-switch-system-menu-polish-fan-translation.530672/)
 
@@ -25,10 +25,6 @@ Jesteśmy bardzo zadowoleni z wydania tego projektu, nad którym pracowaliśmy p
 
 #### Niemożliwe z obecnymi metodami (może modyfikowanie pamięci NAND?):
 
-* Szybkie ustawienia
-* Menu zasilania
-* Ustawienia kontrolerów
-* Kanał nowości
 * eShop (oczywiście)
 * Informacje o zdrowiu i bezpieczeństwie, Ważne informacje itd.
 
@@ -66,10 +62,6 @@ We are extremely happy to release the project we've been working on for almost a
 
 #### Can't be done with current methods (maybe with NAND editing?):
 
-* Quick Settings menu
-* Power menu
-* Controller settings
-* News channel
 * eShop (obviously)
 * Health and Safety Information, Important Information, etc.
 
