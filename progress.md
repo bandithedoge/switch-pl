@@ -2,9 +2,9 @@
 
 * common (142) - 100% - spaq
 
-## 0100000000001000
-
 * dataErase (72) - 100% - spaq
+
+## 0100000000001000
 
 * flaunch (7) - 100% - bandi
 
@@ -24,6 +24,8 @@
 
 * ~~setting~~
 
+* ~~dataErase~~
+
 ## 0100000000001013
 
 * myPage (222) - 100% - bandi
@@ -35,5 +37,11 @@
 ## 0100000000001007
 
 * playerSelect (104) - 100% - bandi
+
+* ~~common~~
+
+## 0100000000001004
+
+* ~~dataErase~~
 
 * ~~common~~
