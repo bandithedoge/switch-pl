@@ -34,6 +34,6 @@
 
 ## 0100000000001007
 
-* playerSelect (104) - 60% - bandi
+* playerSelect (104) - 100% - bandi
 
 * ~~common~~
