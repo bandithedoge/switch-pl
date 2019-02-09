@@ -14,7 +14,7 @@
 
 * migration (74) - 100% - spaq
 
-* notification (74) - 0%
+* notification (74) - 100% - bandi
 
 * option (69) - 100% - bandi
 
