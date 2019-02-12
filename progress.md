@@ -48,7 +48,7 @@
 
 ## 0100000000001012
 
-* starter (85) - 0%
+* starter (85) - 100% - bandi
 
 * ~~common~~
 
@@ -56,6 +56,6 @@
 
 ## 0100000000001006
 
-* netConnect (121) - 0%
+* netConnect (121) - 100% - bandi
 
 * ~~common~~
