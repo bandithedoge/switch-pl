@@ -74,7 +74,7 @@
 
 ## 0100000000001015
 
-* maintenance (17) - 0%
+* maintenance (17) - 100% - bandi
 
 * ~~common~~
 
