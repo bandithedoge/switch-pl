@@ -68,7 +68,7 @@
 
 ## 0100000000001001
 
-* auth (59) - 0%
+* **auth (59) - 0%**
 
 * ~~common~~
 
@@ -82,34 +82,34 @@
 
 ## 010000000000100C
 
-* overlayDisp (79) - 0%
+* **overlayDisp (79) - 0%**
 
 * ~~common~~
 
 ## 0100000000001008
 
-* swkbd (51) - 0%
+* swkbd (51) - 100% - bandi
 
 * ~~common~~
 
 ## 0100000000001009
 
-* MiiEditN (152) - 0% (.mbst, NOT .szs)
+* **MiiEditN (152) - 0% (.mbst, NOT .szs)**
 
 ## 0100000000001002
 
-* cabinet (81) - 0%
+* **cabinet (81) - 0%**
 
 * ~~common~~
 
 ## 0100000000001005
 
-* error (27) - 0%
+* **error (27) - 0%**
 
 * ~~common~~
 
 ## 010000000000100D
 
-* photoViewer (100) - 0%
+* **photoViewer (100) - 0%**
 
 * ~~common~
