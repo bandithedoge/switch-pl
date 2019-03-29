@@ -82,7 +82,7 @@
 
 ## 010000000000100C
 
-* overlayDisp (79) - 100%
+* overlayDisp (79) - 100% - bandi
 
 * ~~common~~
 
@@ -98,7 +98,7 @@
 
 ## 0100000000001002
 
-* **cabinet (81) - 0%**
+* cabinet (81) - 100% - bandi
 
 * ~~common~~
 
