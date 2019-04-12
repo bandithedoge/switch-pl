@@ -1,79 +1,57 @@
-![słodko](https://github.com/bandithedoge/switch-pl/blob/master/ss/lang.jpg)
+# The first FULL Nintendo Switch system menu fan translation!
 
-[more screenshots/więcej screenshotów](https://imgur.com/a/mZQy2X8)
+![pic](https://github.com/bandithedoge/switch-pl/blob/master/pic_small.png)
 
-[GBAtemp](https://gbatemp.net/threads/switch-po-polsku-switch-pl-the-first-almost-full-switch-system-menu-polish-fan-translation.530672/)
-
-[(Want that sexy theme?/Chcesz ten seksowny motyw?)](https://gbatemp.net/download/atmosphere-theme.35531/)
-
-# Polski
-
-## switch-pl - Pierwsze (prawie) pełne fanowskie tłumaczenie systemu Nintendo Switch!
-
-Jesteśmy bardzo zadowoleni z wydania tego projektu, nad którym pracowaliśmy prawie tydzień. Przetłumaczyliśmy (w przybliżeniu) 1748 linijek tekstu na polski.
-
-### Użyte oprogramowanie:
-
-* [NXThemes Installer](https://github.com/exelix11/SwitchThemeInjector) do skopiowania plików systemowych
-* [hactool](https://github.com/SciresM/hactool) do otworzenia wyżej wspomnianych plików systemowych
-* [SARC Tool](https://github.com/aboood40091/SARC-Tool) do rozpakowania plików .szs
-* [Uwizard](https://github.com/MrMysterio/Uwizard) do pakowania plików .msbt do .szs
-* i oczywiście ~~Kurit'~~ [Kuriimu](https://github.com/IcySon55/Kuriimu) do edycji plików .msbt
-
-
-### Co nie zostało przetłumaczone
-
-#### Niemożliwe z obecnymi metodami (może modyfikowanie pamięci NAND?):
-
-* eShop (oczywiście)
-* Informacje o zdrowiu i bezpieczeństwie, Ważne informacje itd.
-
-#### Niemożliwe w ogóle:
-
-Jedna z rzeczy, których po prostu nie da się przetłumaczyć, to teksty typu "Offline/Played for X minutes/hours/days". Dlaczego? Nintendo zdecydowało się użyć dla nich bardzo niecodziennych tagów. Otwarte w Kuriimu wyglądają tak:
-
-![Nauczcie się robić tagi!](https://i.imgur.com/mJTG5BT.png)
-
-Każda próba edycji tych tekstów powodowała uszkodzenie pliku. To bardzo irytujące. Zanim znaleźliśmy powód, stało się to 6 razy. Dlatego ten tekst pozostał niezmieniony.
-
-
-### Jak zainstalować
-
-* Pobierz plik .zip dołączony do ostatniego [wyadnia](https://github.com/bandithedoge/switch-pl/releases) i rozpakuj folder "titles" do folderu Twojego CFW (atmosphere/reinx/sxos) na karcie SD. Włącz wybrany CFW ze wsparciem dla LayeredFS (jeżeli używałeś niestandardowych motywów, powinieneś wiedzieć co to).
-
-
-
-# English
-
-## switch-pl - The first (almost) full Nintendo Switch system menu fan translation!
-
-We are extremely happy to release the project we've been working on for almost a week. We translated (approximately) 1748 lines of text to Polish.
+[new GBAtemp thread](https://gbatemp.net/threads/switch-pl-full-polish-switch-system-menu-translation.535797/)
 
 ### Software used:
 
-* [NXThemes Installer](https://github.com/exelix11/SwitchThemeInjector) for dumping the files
 * [hactool](https://github.com/SciresM/hactool) for extracting the dumps
 * [SARC Tool](https://github.com/aboood40091/SARC-Tool) for extracting .szs files
 * [Uwizard](https://github.com/MrMysterio/Uwizard) for packing .msbt files back to .szs
-* ...and of course ~~Kurit'~~ [Kuriimu](https://github.com/IcySon55/Kuriimu) for editing .msbt files
+* ~~Kurit'~~ [Kuriimu](https://github.com/IcySon55/Kuriimu) for editing .msbt files
 
 
 ### What's not translated
 
-#### Can't be done with current methods (maybe with NAND editing?):
-
 * eShop (obviously)
 * Health and Safety Information, Important Information, etc.
-
-#### Can't (and possibly won't) be translated at all:
-
-The one thing that just can't be translated is the text that says "Offline/Played for X minutes/hours/days". Why? Nintendo used some very weird tags for these. When opened in Kuriimu, they look like this:
-
-![Learn to do tags, Ninty](https://i.imgur.com/mJTG5BT.png)
-
-Any attempt to edit this text results in file corruption. It was really annoying. It happened 6 times before we found out the issue. That's why we left it unchanged.
+* "Played for X hours", "Played X days ago", etc.
 
 
 ### How to install
 
-* Download the .zip file attached to the latest [release](https://github.com/bandithedoge/switch-pl/releases) and extract the "titles" folder to your CFW's directory (atmosphere/reinx/sxos) on the SD card. Run the selected CFW with LayeredFS support (you should know about it if you've used custom themes).
+* Power off your console, take out the microSD card and pit it in your PC 
+  * Alternatively, you can use FTP
+* Download the .zip file attached to the latest [release](https://github.com/bandithedoge/switch-pl/releases)
+* Extract the "titles" folder to the folder of your CFW (atmosphere/reinx/sxos) and overwrite all files
+* Turn your console on and launch your favorite CFW.
+
+### Special thanks
+
+* Migush - for providing a full dump of the Switch system menu
+* Pekempy - for his awesome [custom icon and label tutorial](https://github.com/pekempy/SwitchIconMod/wiki/Custom-Labels)
+* newget - for sending his unreleased Korean translation
+* Everyone who helped in the [Qcean Discord](https://discord.gg/EyxSS8T)
+
+# Additional info
+
+### OMG SZS!
+
+> Sharing any .szs files is ILLEGAL!
+
+No, it's not. Well, it depends. The .szs format is the compression format Nintendo uses. You can use it to compress anything. It can be a copyrighted Switch menu asset or a cat picture. In the case of translations, .szs files taken straight from the console contain .msbt files, which have copyrighted text. We replace the strings in the .msbt files with our own versions so they're legal to distriubute.
+
+> But you could use patches, right?
+
+Yes, we could, but it's not convenient at all. Patches are good for ROM hacks, where you apply a patch to an unmodified ROM. The Switch menu contains a lot of files. Dumping, extracting, patching, compressing and putting the files in the right folder would take a good few hours (unless someone bothers to write a script for it). It's just way easier to extract a .zip to a directory.
+
+### Who is this even for?
+
+> All Switch hacking tutorials are in English anyway, and this requires CFW. Why bother?
+
+If you're an advanced user, you probably know English. This translation is useful if you:
+
+* Want to give a hacked Switch to someone who doesn't know English
+* Bought a hacked Switch and have no idea what to do
+* Just want to mod the hell outta the console for fun
