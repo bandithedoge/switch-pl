@@ -2,6 +2,8 @@
 
 ![pic](https://github.com/bandithedoge/switch-pl/blob/master/pic_small.png)
 
+[new GBAtemp thread](https://gbatemp.net/threads/switch-pl-full-polish-switch-system-menu-translation.535797/)
+
 ### Software used:
 
 * [hactool](https://github.com/SciresM/hactool) for extracting the dumps
