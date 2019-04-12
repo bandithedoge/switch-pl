@@ -94,7 +94,7 @@
 
 ## 0100000000001009
 
-* **MiiEditN (152) - 0% (.mbst, NOT .szs)**
+* MiiEditN (152) (.mbst, NOT .szs) - 100% - bandi 
 
 ## 0100000000001002
 
