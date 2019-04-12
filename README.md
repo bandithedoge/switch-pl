@@ -17,6 +17,7 @@
 * eShop (obviously)
 * Health and Safety Information, Important Information, etc.
 * "Played for X hours", "Played X days ago", etc.
+* Some error messages
 
 
 ### How to install
