@@ -13,6 +13,7 @@
   * 8.0.0 (14) - bandi
 
 * gift (59) - 100% - spaq
+  * 8.0.0 (62) - bandi
 
 * interrupt (54) - 100% - spaq
 
