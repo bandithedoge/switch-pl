@@ -1,15 +1,16 @@
 * setting (909) - 100% - bandi
-  * 8.0.0 (981) - bandi
+  * 8.0.0 (72) - bandi
 
 * common (142) - 100% - spaq
-  * 8.0.0 (146) - bandi
+  * 8.0.0 (4) - bandi
 
 * dataErase (72) - 100% - spaq
+  * 8.0.0 (0) - bandi
 
 ## 0100000000001000
 
 * flaunch (7) - 100% - bandi
-  * 8.0.0 (21) - bandi
+  * 8.0.0 (14) - bandi
 
 * gift (59) - 100% - spaq
 
