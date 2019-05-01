@@ -4,6 +4,8 @@
 
 [new GBAtemp thread](https://gbatemp.net/threads/switch-pl-full-polish-switch-system-menu-translation.535797/)
 
+**This currently works only on firmwares up to 6.2.0. We're updating it for 8.0.0, although support for 8.0.1 is not guaranteed.**
+
 ### Software used:
 
 * [hactool](https://github.com/SciresM/hactool) for extracting the dumps
