@@ -1,6 +1,7 @@
 * setting (909) - 100% - bandi
 
 * common (142) - 100% - spaq
+  * 8.0.0 (146) - bandi
 
 * dataErase (72) - 100% - spaq
 
