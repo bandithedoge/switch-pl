@@ -22,10 +22,11 @@
 
 ### How to install
 
-* Power off your console, take out the microSD card and pit it in your PC 
-  * Alternatively, you can use FTP
-* Download the .zip file attached to the latest [release](https://github.com/bandithedoge/switch-pl/releases)
-* Extract the "titles" folder to the folder of your CFW (atmosphere/reinx/sxos) and overwrite all files
+* Power off your console, take out the microSD card and put it in your PC.
+  * Alternatively, you can use FTP.
+* Download the .zip file attached to the latest [release](https://github.com/bandithedoge/switch-pl/releases).
+* Extract the "titles" folder to the folder of your CFW (atmosphere/reinx/sxos) and overwrite all files.
+  * LayeredFS is broken in SXOS 2.5, use 2.4.1 or 2.6.2 instead (congrats TX, you can't even copy-paste code).
 * Turn your console on and launch your favorite CFW.
 
 ### Special thanks
