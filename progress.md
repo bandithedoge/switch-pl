@@ -19,6 +19,7 @@
   * 8.0.0 (3) - bandi
 
 * migration (74) - 100% - spaq
+  * 8.0.0 (36) - bandi
 
 * notification (74) - 100% - bandi
 
