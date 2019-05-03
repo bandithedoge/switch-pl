@@ -25,6 +25,7 @@
   * 8.0.0 (5) - bandi
 
 * option (69) - 100% - bandi
+  * 8.0.0 (9) - bandi
 
 * qlaunch (140) - 100% - bandi / spaq
 
