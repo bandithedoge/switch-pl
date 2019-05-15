@@ -48,7 +48,7 @@
 ## 0100000000001007
 
 * playerSelect (104) - 100% - bandi
-
+  * 8.0 (45) - bandi - UNTESTED!
 * ~~common~~
 
 ## 0100000000001004
