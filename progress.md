@@ -69,6 +69,7 @@
 ## 0100000000001006
 
 * netConnect (121) - 100% - bandi
+  * 8.0 (1) - bandi
 
 * ~~common~~
 
