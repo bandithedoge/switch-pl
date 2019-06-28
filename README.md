@@ -6,8 +6,6 @@
 
 [Want to make your own?](https://github.com/bandithedoge/switch-pl/wiki/Getting-started)
 
-**This currently works on firmwares 6.2.0-8.0.1 and should work on 8.1.0. May or may not work on older firmwares, no guarantees.**
-
 ### What's not translated
 
 * eShop (obviously)
