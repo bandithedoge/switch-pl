@@ -6,7 +6,7 @@
 
 [Want to make your own?](https://github.com/bandithedoge/switch-pl/wiki/Getting-started)
 
-**This currently works only on firmwares up to 6.2.0. We're updating it for 8.0.0, although support for 8.0.1 is not guaranteed.**
+**This currently works on firmwares 6.2.0-8.0.1 and should work on 8.1.0. May or may not work on older firmwares, no guarantees.**
 
 ### Software used:
 
@@ -30,7 +30,7 @@
   * Alternatively, you can use FTP.
 * Download the .zip file attached to the latest [release](https://github.com/bandithedoge/switch-pl/releases).
 * Extract the "titles" folder to the folder of your CFW (atmosphere/reinx/sxos) and overwrite all files.
-  * LayeredFS is broken in SXOS 2.5, use 2.4.1 or 2.6.2 instead (congrats TX, you can't even copy-paste code).
+  * LayeredFS is broken in SXOS 2.5, use 2.4.1 or 2.6.2 instead.
 * Turn your console on and launch your favorite CFW.
 
 ### Special thanks
