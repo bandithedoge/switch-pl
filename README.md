@@ -8,14 +8,6 @@
 
 **This currently works on firmwares 6.2.0-8.0.1 and should work on 8.1.0. May or may not work on older firmwares, no guarantees.**
 
-### Software used:
-
-* [hactool](https://github.com/SciresM/hactool) for extracting the dumps
-* [SARC Tool](https://github.com/aboood40091/SARC-Tool) for extracting .szs files
-* [Uwizard](https://github.com/MrMysterio/Uwizard) for packing .msbt files back to .szs
-* ~~Kurit'~~ [Kuriimu](https://github.com/IcySon55/Kuriimu) for editing .msbt files
-
-
 ### What's not translated
 
 * eShop (obviously)
