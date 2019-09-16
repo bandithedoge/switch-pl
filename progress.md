@@ -101,9 +101,8 @@
 * ~~common~~
 
 ## 0100000000001005
-
-  * 8.0 (3) - bandi
 * error (27) - 100% - bandi
+  * 8.0 (3) - bandi
   * 9.0 (1) - spaq
 * ~~common~~
 
