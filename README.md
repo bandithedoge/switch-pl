@@ -2,6 +2,8 @@
 
 ![pic](https://github.com/bandithedoge/switch-pl/blob/master/pic_small.png)
 
+[Official Discord server](https://discord.gg/TyCNWyC)
+
 [new GBAtemp thread](https://gbatemp.net/threads/switch-pl-full-polish-switch-system-menu-translation.535797/)
 
 [Want to make your own?](https://github.com/bandithedoge/switch-pl/wiki/Getting-started)
