@@ -22,6 +22,7 @@
   * 8.0.0 (9) - bandi
 * qlaunch (140) - 100% - bandi / spaq
   * 8.0.0 (14) - bandi
+  * 9.0.0 (27) - bandi
 * ~~common~~
 * ~~setting~~
 * ~~dataErase~~
