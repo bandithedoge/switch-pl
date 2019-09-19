@@ -15,6 +15,7 @@
   * 9.0.0 (0) - spaq
 * interrupt (54) - 100% - spaq
   * 8.0.0 (3) - bandi
+  * 9.0.0 (3) - spaq
 * migration (74) - 100% - spaq
   * 8.0.0 (36) - bandi
 * notification (74) - 100% - bandi
