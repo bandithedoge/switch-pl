@@ -111,6 +111,7 @@
 
 * photoViewer (100) - 100% - bandi
   * 8.0 (0) - bandi
+  * 9.0 (2) - bandi
 * ~~common~~
 
 ## 010000000000080B
