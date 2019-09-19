@@ -2,6 +2,7 @@
   * 8.0.0 (72) - bandi
 * common (142) - 100% - spaq
   * 8.0.0 (4) - bandi
+  * 9.0 (7 + times) - spaq
 * dataErase (72) - 100% - spaq
   * 8.0.0 (0) - bandi
 
@@ -14,6 +15,7 @@
   * 9.0.0 (0) - spaq
 * interrupt (54) - 100% - spaq
   * 8.0.0 (3) - bandi
+  * 9.0.0 (3) - spaq
 * migration (74) - 100% - spaq
   * 8.0.0 (36) - bandi
 * notification (74) - 100% - bandi
@@ -31,6 +33,7 @@
 
 * myPage (222) - 100% - bandi
   * 8.0.0 (0) - bandi
+  * 9.0 (~20 + times) - spaq
 * ~~common~~
 * ~~setting~~
 
@@ -68,6 +71,7 @@
 
 * auth (59) - 100% - bandi
   * 8.0 (0) - bandi
+  * 9.0 (1) - spaq
 * ~~common~~
 
 ## 0100000000001015
@@ -99,6 +103,7 @@
 
 * cabinet (81) - 100% - bandi
   * 8.0 (0) - bandi
+  * 9.0 (0) - spaq
 * ~~common~~
 
 ## 0100000000001005
@@ -122,3 +127,4 @@
 ## 0100000000000803
 
 * Cruiser (127) - 100% - bandi
+	* 9.0 (1) - spaq
