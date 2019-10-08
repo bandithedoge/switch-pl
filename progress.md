@@ -1,5 +1,6 @@
 * setting (909) - 100% - bandi
   * 8.0.0 (72) - bandi
+  * 9.0.0 (6) - bandi
 * common (142) - 100% - spaq
   * 8.0.0 (4) - bandi
   * 9.0 (7 + times) - spaq
