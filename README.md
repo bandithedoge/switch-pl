@@ -1,6 +1,6 @@
 # The first FULL Nintendo Switch system menu fan translation!
 
-![pic](https://github.com/bandithedoge/switch-pl/blob/master/pic_small.png)
+![pic](https://github.com/bandithedoge/switch-pl/blob/master/assets/header.png)
 
 [Official Discord server](https://discord.gg/TyCNWyC)
 
