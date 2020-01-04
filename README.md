@@ -18,12 +18,26 @@
 
 ### How to install
 
-* Power off your console, take out the microSD card and put it in your PC.
-  * Alternatively, you can use FTP.
-* Download the .zip file attached to the latest [release](https://github.com/bandithedoge/switch-pl/releases).
-* Extract the "titles" folder to the folder of your CFW (atmosphere/reinx/sxos) and overwrite all files.
-  * LayeredFS is broken in SXOS 2.5, use 2.4.1 or 2.6.2 instead.
-* Turn your console on and launch your favorite CFW.
+#### If you're on Atmosphere 0.10.0 or higher
+
+* Extract the [latest](https://github.com/bandithedoge/switch-pl/releases/latest) .zip file into the root of your microSD card.
+
+OR
+
+* Download the latest release from the Switch Homebrew Appstore
+
+#### If you're on Atmosphere 0.9.4 or lower
+
+* Download the [latest](https://github.com/bandithedoge/switch-pl/releases/latest) .zip file and extract the contents of the ```/atmosphere/contents/``` directory into ```/atmosphere/titles``` on your microSD card.
+
+#### If you're on ReiNX
+
+* Download the [latest](https://github.com/bandithedoge/switch-pl/releases/latest) .zip file and extract the contents of the ```/atmosphere/contents/``` directory into ```/reinx/titles``` on your microSD card.
+
+#### If you're on SXOS
+
+* Download the [latest](https://github.com/bandithedoge/switch-pl/releases/latest) .zip file and extract the contents of the ```/atmosphere/contents/``` directory into ```/sxos/titles``` on your microSD card.
+  * **NOTE: SXOS 2.5.X has broken support for LayeredFS. Use a newer version.**
 
 ### Special thanks
 
