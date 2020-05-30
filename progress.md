@@ -81,7 +81,7 @@
 * controller (98) - 100% - bandi
   * 8.0.0 (1) - bandi
   * 9.0.0 (16) - spaq
-  * **10.0.0 -**
+  * 10.0.0 (53) - bandi
 * button (46) - 100% - bandi
 * ~~common~~
 
