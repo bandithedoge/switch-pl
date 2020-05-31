@@ -2,7 +2,7 @@
   * 8.0.0 (72) - bandi
   * 9.0.0 (6) - bandi
   * 9.1.0 (-1) - bandi
-  * **10.0.0 (15) - spaq**
+  * 10.0.0 (15) - spaq
 * common (142) - 100% - spaq
   * 8.0.0 (4) - bandi
   * 9.0.0 (7 + times) - spaq
@@ -29,7 +29,7 @@
 * notification (74) - 100% - bandi
   * 8.0.0 (5) - bandi
   * 9.0.0 (8) - bandi
-  * **10.0.0 -**
+  * 10.0.0 (6) - bandi
 * option (69) - 100% - bandi
   * 8.0.0 (9) - bandi
   * **10.0.0 -**
