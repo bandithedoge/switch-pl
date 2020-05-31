@@ -6,10 +6,10 @@
 * common (142) - 100% - spaq
   * 8.0.0 (4) - bandi
   * 9.0.0 (7 + times) - spaq
-  * **10.0.0 (4) - spaq**
+  * 10.0.0 (4) - spaq
 * dataErase (72) - 100% - spaq
   * 8.0.0 (0) - bandi
-  * **10.0.0 (12) - spaq**
+  * 10.0.0 (12) - spaq
 
 ## 0100000000001000
 
@@ -65,7 +65,7 @@
 * starter (85) - 100% - bandi
   * 8.0.0 (2) - bandi
   * 9.1.0 (-1 + few redactions) - spaq
-  * **10.0.0 (1) - spaq**
+  * 10.0.0 (1) - spaq
 * ~~common~~
 * ~~setting~~
 
