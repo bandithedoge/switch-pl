@@ -18,11 +18,11 @@
 * gift (59) - 100% - spaq
   * 8.0.0 (3) - bandi
   * 9.0.0 (0) - spaq
-  * 10.0.0 (1)- spaq
+  * 10.0.0 (1) - spaq
 * interrupt (54) - 100% - spaq
   * 8.0.0 (3) - bandi
   * 9.0.0 (3) - spaq
-  * **10.0.0 -**
+  * 10.0.0 (1) - bandi
 * migration (74) - 100% - spaq
   * 8.0.0 (36) - bandi
   * 9.0.0 (1) - spaq
