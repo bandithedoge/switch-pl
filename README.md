@@ -6,7 +6,7 @@
 
 [new GBAtemp thread](https://gbatemp.net/threads/switch-pl-full-polish-switch-system-menu-translation.535797/)
 
-[Want to make your own?](https://github.com/bandithedoge/switch-pl/wiki/Getting-started)
+[Want to make your own?](https://github.com/bandithedoge/switch-pl/wiki/0.-Getting-started)
 
 ### What's not translated
 
