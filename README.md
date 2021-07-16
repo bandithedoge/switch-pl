@@ -52,7 +52,7 @@ OR
 
 > Sharing any .szs files is ILLEGAL!
 
-No, it's not. Well, it depends. The .szs format is the compression format Nintendo uses. You can use it to compress anything. It can be a copyrighted Switch menu asset or a cat picture. In the case of translations, .szs files taken straight from the console contain .msbt files, which have copyrighted text. We replace the strings in the .msbt files with our own versions so they're legal to distriubute.
+No, it's not. Well, it depends. The .szs format is the compression format Nintendo uses. You can use it to compress anything. It can be a copyrighted Switch menu asset or a cat picture. In the case of translations, .szs files taken straight from the console contain .msbt files, which have copyrighted text. We replace the strings in the .msbt files with our own versions so they're legal to distribute.
 
 > But you could use patches, right?
 
