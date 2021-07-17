@@ -2,6 +2,7 @@
 # The script requires that all MSBT files in "msbt/" follow the <name>.msbt format, which is ensured by the SZS extraction script (WIP)
 # The resulting "contents" directory can theoretically be copied to the SD card and used.
 
+import os
 import libyaz0
 
 # titles that contain MSBT text files packed in .szs
@@ -38,35 +39,49 @@ for title in files_szs:
 # convert the list of files to a dictionary and back to a list in order to get rid of duplicates
 files_list = list(dict.fromkeys(files))
 
-msbt_folder = "msbt/"
-msbt_file = file + ".msbt"
-szs_folder = "szs/"
-szs_file = file + ".msbt.szs"
+folders = {
+        "msbt": "msbt/",
+        "szs": "szs/",
+        "contents": "atmosphere/contents/"
+        }
+
+for folder in folders:
+    if not os.path.exists(folders[folder]):
+        os.makedirs(folders[folder])
 
 # compress the files and output to "szs/"
 for file in files_list:
     print("Compressing " + file)
-    with open(msbt_folder + msbt_file, "rb") as szs, open(szs_folder + szs_file, "wb+") as out:
+    msbt_file = file + ".msbt"
+    szs_file = file + ".msbt.szs"
+    with open(folders["msbt"] + msbt_file, "rb") as szs, open(folders["szs"] + szs_file, "wb+") as out:
         compressed = libyaz0.compress(szs.read(), 0, 9)
         out.write(compressed)
 
 # copy both the compressed szs and uncompressed msbt files to the correct path for layeredfs
 for title in files_szs:
-    output = "atmosphere/contents/" + title + "/romfs/message/EUen/"
+    output = folders["contents"] + title + "/romfs/message/EUen/"
+    if not os.path.exists(output):
+        os.makedirs(output)
+
     for file in files_szs[title]:
+
         szs_file = file + ".msbt.szs"
-        szs_in = szs_folder + szs_file
+        szs_in = folders["szs"] + szs_file
         szs_out = output + szs_file
 
-        with open(szs_out, "wb") as lfs_out, open(szs_in, "rb") as lfs_in:
+        with open(szs_out, "wb+") as lfs_out, open(szs_in, "rb") as lfs_in:
             print("Copying " + szs_in + " to " + szs_out)
             lfs_out.write(lfs_in.read())
 
 for title in files_msbt:
-    output = "atmosphere/contents/" + title + "/romfs/message/EUen/"
+    output = folders["contents"] + title + "/romfs/message/EUen/"
+    if not os.path.exists(output):
+        os.makedirs(output)
+
     for file in files_msbt[title]:
         msbt_file = file + ".msbt"
-        msbt_in = msbt_folder + msbt_file
+        msbt_in = folders["msbt"] + msbt_file
         msbt_out = output + msbt_file
 
         with open(msbt_out, "wb") as lfs_out, open(msbt_in, "rb") as lfs_in:

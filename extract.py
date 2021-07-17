@@ -7,27 +7,33 @@ import libyaz0
 key_file = "~/.switch/prod.keys"
 hactool = "hactool -k " + key_file + " --disablekeywarns "
 
-nca_dir = "nca/"
-nsp_dir = "nsp/"
-romfs_dir = "romfs/"
-msbt_dir = "msbt/"
-message_dir = romfs_dir + "message/EUen/"
+folders = {
+        "nca": "nca/",
+        "nsp": "nsp/",
+        "romfs": "romfs/",
+        "msbt": "msbt/",
+        "message": "romfs/message/EUen/"
+        }
 
-nsp_command = hactool + "--intype=pfs0 --pfs0dir=" + nca_dir + " -x "
-nca_command = hactool + "--romfsdir=" + romfs_dir + " "
+for folder in folders:
+    if not os.path.exists(folders[folder]):
+        os.makedirs(folders[folder])
 
-for title in os.listdir(nsp_dir):
+nsp_command = hactool + "--intype=pfs0 --pfs0dir=" + folders["nca"] + " -x "
+nca_command = hactool + "--romfsdir=" + folders["romfs"] + " "
+
+for title in os.listdir(folders["nsp"]):
     print("\nExtracting " + title)
-    os.system(nsp_command + nsp_dir + title + "/00")
+    os.system(nsp_command + folders["nsp"] + title + "/00")
 
-for nca in os.listdir(nca_dir):
+for nca in os.listdir(folders["nca"]):
     print("\n Extracting " + nca)
-    os.system(nca_command + nca_dir + nca)
+    os.system(nca_command + folders["nca"] + nca)
 
-for msbt in os.listdir(message_dir):
+for msbt in os.listdir(folders["message"]):
     if msbt.endswith(".szs") or msbt.endswith(".msbt"):
         msbt_name = re.sub("\.szs$", "", msbt)
-        with open(message_dir + msbt, "rb") as input, open(msbt_dir + msbt_name, "wb") as output:
+        with open(folders["message"] + msbt, "rb") as input, open(folders["msbt"] + msbt_name, "wb") as output:
             if msbt.endswith(".szs"):
                 decompressed = libyaz0.decompress(input.read())
             else:
