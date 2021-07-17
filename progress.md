@@ -9,6 +9,7 @@
   * 9.0.0 (7 + times) - spaq
   * 10.0.0 (4) - spaq
   * 12.0.2 (5) - bandi
+  * 12.1.0 (0) - bandi
 * dataErase (72) - 100% - spaq
   * 8.0.0 (0) - bandi
   * 10.0.0 (12) - spaq
