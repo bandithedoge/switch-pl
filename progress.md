@@ -97,6 +97,7 @@
   * 9.0.0 (16) - spaq
   * 10.0.0 (53) - bandi
   * 12.0.2 (3) - bandi
+  * 12.1.0 (1) - bandi
 * button (46) - 100% - bandi
 * ~~common~~
 
@@ -175,3 +176,4 @@
 * Cruiser (127) - 100% - bandi
   * 9.0.0 (1) - spaq
   * 10.0.0 (1) - bandi
+  * 12.1.0 (1) - bandi
