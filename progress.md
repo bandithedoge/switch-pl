@@ -7,9 +7,11 @@
   * 8.0.0 (4) - bandi
   * 9.0.0 (7 + times) - spaq
   * 10.0.0 (4) - spaq
+  * 12.0.2 (5) - bandi
 * dataErase (72) - 100% - spaq
   * 8.0.0 (0) - bandi
   * 10.0.0 (12) - spaq
+  * 12.0.2 (0) - bandi
 
 ## 0100000000001000
 
@@ -19,24 +21,30 @@
   * 8.0.0 (3) - bandi
   * 9.0.0 (0) - spaq
   * 10.0.0 (1) - spaq
+  * 12.0.2 (0) - bandi
 * interrupt (54) - 100% - spaq
   * 8.0.0 (3) - bandi
   * 9.0.0 (3) - spaq
   * 10.0.0 (1) - bandi
+  * 12.0.2 (0) - bandi
 * migration (74) - 100% - spaq
   * 8.0.0 (36) - bandi
   * 9.0.0 (1) - spaq
+  * 12.0.2 (0) - bandi
 * notification (74) - 100% - bandi
   * 8.0.0 (5) - bandi
   * 9.0.0 (8) - bandi
   * 10.0.0 (6) - bandi
+  * 12.0.2 (0) - bandi
 * option (69) - 100% - bandi
   * 8.0.0 (9) - bandi
   * 10.0.0 (1) - bandi
+  * 12.0.2 (2) - bandi
 * qlaunch (140) - 100% - bandi / spaq
   * 8.0.0 (14) - bandi
   * 9.0.0 (27) - bandi
   * 10.0.0 (8) - bandi
+  * 12.0.2 (4) - bandi
 * ~~common~~
 * ~~setting~~
 * ~~dataErase~~
@@ -46,6 +54,7 @@
 * myPage (222) - 100% - bandi
   * 8.0.0 (0) - bandi
   * 9.0.0 (~20 + times) - spaq
+  * 12.0.2 (56) - bandi
 * ~~common~~
 * ~~setting~~
 
@@ -53,6 +62,7 @@
 
 * playerSelect (104) - 100% - bandi
   * 8.0.0 (45) - bandi
+  * 12.0.2 (6) - bandi
 * ~~common~~
 
 ## 0100000000001004
@@ -66,6 +76,7 @@
   * 8.0.0 (2) - bandi
   * 9.1.0 (-1 + few redactions) - spaq
   * 10.0.0 (1) - spaq
+  * 12.0.2 (0) - bandi
 * ~~common~~
 * ~~setting~~
 
@@ -74,6 +85,7 @@
 * netConnect (121) - 100% - bandi
   * 8.0.0 (1) - bandi
   * 10.0.0 (0)- spaq
+  * 12.0.2 (0) - bandi
 * ~~common~~
 
 ## 0100000000001003
@@ -82,6 +94,7 @@
   * 8.0.0 (1) - bandi
   * 9.0.0 (16) - spaq
   * 10.0.0 (53) - bandi
+  * 12.0.2 (3) - bandi
 * button (46) - 100% - bandi
 * ~~common~~
 
@@ -91,6 +104,7 @@
   * 8.0.0 (0) - bandi
   * 9.0.0 (1) - spaq
   * 10.0.0 (0) - spaq
+  * 12.0.2 (3) - bandi
 * ~~common~~
 
 ## 0100000000001015
@@ -107,6 +121,7 @@
   * 8.0.0 (10) - bandi
   * 9.0.0 (3) - bandi
   * 10.0.0 (3) - bandi
+  * 12.0.2 (1) - bandi
 * ~~common~~
 
 ## 0100000000001008
@@ -120,18 +135,21 @@
 
 * MiiEditN (152) (.mbst, NOT .szs) - 100% - bandi 
   * 8.0.0 (0) - bandi
+  * 12.0.2 (0) - bandi
 
 ## 0100000000001002
 
 * cabinet (81) - 100% - bandi
   * 8.0.0 (0) - bandi
   * 9.0.0 (0) - spaq
+  * 12.0.2 (0) - bandi
 * ~~common~~
 
 ## 0100000000001005
 * error (27) - 100% - bandi
   * 8.0.0 (3) - bandi
   * 9.0.0 (1) - spaq
+  * 12.0.2 (0) - bandi
 * ~~common~~
 
 ## 010000000000100D
@@ -140,6 +158,7 @@
   * 8.0.0 (0) - bandi
   * 9.0.0 (2) - bandi
   * 10.0.0 (0) - bandi
+  * 12.0.2 (23) - bandi
 * ~~common~~
 
 ## 010000000000080B
