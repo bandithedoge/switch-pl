@@ -52,7 +52,7 @@ for file in files_list:
 
 # copy both the compressed szs and uncompressed msbt files to the correct path for layeredfs
 for title in files_szs:
-    output = "contents/" + title + "/romfs/message/EUen/"
+    output = "atmosphere/contents/" + title + "/romfs/message/EUen/"
     for file in files_szs[title]:
         szs_file = file + ".msbt.szs"
         szs_in = szs_folder + szs_file
@@ -63,7 +63,7 @@ for title in files_szs:
             lfs_out.write(lfs_in.read())
 
 for title in files_msbt:
-    output = "contents/" + title + "/romfs/message/EUen/"
+    output = "atmosphere/contents/" + title + "/romfs/message/EUen/"
     for file in files_msbt[title]:
         msbt_file = file + ".msbt"
         msbt_in = msbt_folder + msbt_file
