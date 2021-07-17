@@ -63,7 +63,12 @@ for title in files_szs:
             lfs_out.write(lfs_in.read())
 
 for title in files_msbt:
+    output = "contents/" + title + "/romfs/message/EUen/"
     for file in files_msbt[title]:
         msbt_file = file + ".msbt"
         msbt_in = msbt_folder + msbt_file
-        print(msbt_in)
+        msbt_out = output + msbt_file
+
+        with open(msbt_out, "wb") as lfs_out, open(msbt_in, "rb") as lfs_in:
+            print("Copying " + msbt_in + " to " + msbt_out)
+            lfs_out.write(lfs_in.read())
