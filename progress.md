@@ -57,6 +57,7 @@
   * 8.0.0 (0) - bandi
   * 9.0.0 (~20 + times) - spaq
   * 12.0.2 (56) - bandi
+  * 12.1.0 (33) - bandi
 * ~~common~~
 * ~~setting~~
 
