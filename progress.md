@@ -3,6 +3,7 @@
   * 9.0.0 (6) - bandi
   * 9.1.0 (-1) - bandi
   * 10.0.0 (15) - spaq
+  * 12.0.2 (64) - bandi
 * common (142) - 100% - spaq
   * 8.0.0 (4) - bandi
   * 9.0.0 (7 + times) - spaq
