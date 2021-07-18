@@ -87,3 +87,8 @@ for title in files_msbt:
         with open(msbt_out, "wb") as lfs_out, open(msbt_in, "rb") as lfs_in:
             print("Copying " + msbt_in + " to " + msbt_out)
             lfs_out.write(lfs_in.read())
+
+# create LayeredFS flags
+for title in os.listdir(folders["contents"]):
+    with open(folders["contents"] + title + "/fsmitm.flag", "w") as flag:
+        flag.write("")
